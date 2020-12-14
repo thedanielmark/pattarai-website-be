@@ -1,6 +1,6 @@
 # REST API Layer - KuTumba FC
 
-![](https://github.com/thedanielmark/kutumbafc-api/blob/main/logo-180x180.png)
+![](https://github.com/thedanielmark/pattarai-website-be/blob/main/images/logo.png)
 
 This repository contains scripts written in PHP 7 to implement a REST API layer for KuTumba FC - a football club founded in Chennai, India.
 This project is a partnership between [MixSpace Internet Services](https://mixspace.xyz) and [KuTumba FC](https://kutumbafc.com).
