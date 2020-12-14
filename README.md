@@ -1,11 +1,8 @@
-# REST API Layer - KuTumba FC
+# REST API Layer - Pattarai
 
 ![](https://github.com/thedanielmark/pattarai-website-be/blob/main/images/logo.png)
 
-This repository contains scripts written in PHP 7 to implement a REST API layer for KuTumba FC - a football club founded in Chennai, India.
-This project is a partnership between [MixSpace Internet Services](https://mixspace.xyz) and [KuTumba FC](https://kutumbafc.com).
-
-The code in this repository is closed source and it requires the explicit written permission of [Daniel Mark](https://thedanielmark.com) in order to download, modify or distribute pieces of it or entire scripts itself.
+This repository contains scripts written in PHP 7 to implement a REST API layer for Pattarai - a technical club founded in Chennai, India. The code in this repository is closed source and it requires the explicit written permission of [Daniel Mark](https://thedanielmark.com), or [Pon Rahul](mailto:rahwinside@gmail.com) in order to download, modify or distribute pieces of it or entire scripts itself.
 
 ----
 
