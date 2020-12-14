@@ -1,4 +1,4 @@
-# REST API Layer - Pattarai
+# Front-End Site - Pattarai
 
 ![](https://github.com/thedanielmark/pattarai-website-be/blob/main/images/logo.png)
 
