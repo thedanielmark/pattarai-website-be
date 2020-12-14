@@ -6,13 +6,11 @@ This repository contains the entire front-end code for Pattarai&apos;s main webs
 
 ----
 
-### APIs Built
-- Login
-- Register
-- Verify Account
-- Resend Verification Code
-- Logout
-- Auth Status
+### Components on this site
+- Static content
+- Instagram posts via the official Instagram GraphQL API
+- Asynchronous Newsletter subscription form
+- Asynchronous Contact form
 
 ----
 
